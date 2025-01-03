@@ -65,12 +65,6 @@ The following Python libraries are used in this project:
     - Evaluates the model and prints the results.
     - Saves the trained model.
 
-## Analysis Report
-
-- **Model Performance:** The model achieves [insert accuracy, precision, recall, F1-score values here] on the testing set.
-- **Confusion Matrix:** The confusion matrix shows the distribution of predictions across the different classes, revealing any potential areas of confusion for the model.
-- **Observations:** [Include any insights or observations about the model's performance, potential improvements, etc.]
-
 ## Potential Improvements
 
 - **Data Augmentation:** Explore using audiomentations to augment the training data and improve generalization.
